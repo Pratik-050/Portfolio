@@ -8,7 +8,7 @@ function Hero() {
         <div className="text-yellow-400 text-xl pt-4 md:pt-10">
           web designer and competitive programmer
         </div>
-        <h1 className="text-5xl uppercase py-4 tracking-wide leading-snug font-bold">
+        <h1 className="text-4xl md:text-7xl uppercase py-4 tracking-wide leading-normal font-bold">
           hi, I am a web developer
         </h1>
         <div className="uppercase text-gray-400 text-md tracking-wider">
@@ -17,7 +17,7 @@ function Hero() {
         </div>
         <a
           href="mailto:pratikpal050+business@gmail.com"
-          className="bg-yellow-500 text-center text-black w-32 p-2 font-bold mt-10 rounded-xl"
+          className="bg-yellow-500 text-center text-black w-32 p-2 font-bold mt-6 md:mt-10 rounded-xl"
           target="_blank"
         >
           Send a mail
@@ -31,7 +31,7 @@ function Hero() {
           src={pratik}
           alt="png"
           loading="lazy"
-          className="mx-auto md:mx-0 md:pl-16 pt-6 w-48 md:w-auto"
+          className="mx-auto md:mx-0 md:pl-16 pt-6 w-44 md:w-auto"
         />
         <div className="absolute bg-white text-white bottom-4 right-10 md:bottom-20 md:right-10 animate-spin-slow2 z-20 w-6 h-6">
           .

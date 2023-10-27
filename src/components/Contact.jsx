@@ -20,7 +20,7 @@ function Contact() {
         <div className="text-center md:text-left md:mt-3">
           Made with ❤ by <span className="text-yellow-400">Pratik</span>
         </div>
-        <div className="flex justify-between w-1/2 md:w-[30%] mx-auto md:mx-0 mt-4 md:mt-0">
+        <div className="flex justify-between w-[60%] md:w-[30%] mx-auto md:mx-0 mt-4 md:mt-0">
           <a href="https://github.com/Pratik-050" target="_blank">
             <img src={github} alt="github" className="w-10 md:w-12" />
           </a>
