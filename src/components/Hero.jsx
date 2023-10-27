@@ -16,7 +16,7 @@ function Hero() {
           touch and ask for collaboration.
         </div>
         <a
-          href="https://mail.google.com/mail/u/pratikpal050@gmail.com/#inbox/153d2095719946b"
+          href="mailto:pratikpal050+business@gmail.com"
           className="bg-yellow-500 text-center text-black w-32 p-2 font-bold mt-10 rounded-xl"
           target="_blank"
         >

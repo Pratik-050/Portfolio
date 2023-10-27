@@ -20,17 +20,17 @@ function Navbar() {
           <a className="md:text-xl hidden md:block uppercase" href="#project">
             projects
           </a>
-          <a className="md:text-xl hidden md:block uppercase" href="">
+          <a className="md:text-xl hidden md:block uppercase" href="#contact">
             contact
           </a>
         </div>
       </div>
       {isDropdownOpen ? (
         <div className="bg-black text-white flex flex-col">
-          <a className="text-md p-4 uppercase" href="">
+          <a className="text-md p-4 uppercase" href="#project">
             projects
           </a>
-          <a className="text-md p-4 uppercase" href="">
+          <a className="text-md p-4 uppercase" href="#contact">
             contact
           </a>
         </div>

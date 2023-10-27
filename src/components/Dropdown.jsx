@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import dropdownLogo from "../assets/dropdown.png";
 
 function Dropdown({ onChange }) {
-  const [isOpen, setIsOpen] = useState(false);
+  const [isOpen, setIsOpen] = useState(true);
   const clickHandler = () => {
     setIsOpen((prev) => !prev);
     onChange(isOpen);
