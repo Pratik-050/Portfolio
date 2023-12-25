@@ -10,7 +10,7 @@ function Dropdown({ onChange }) {
   return (
     <>
       <button
-        className="text-white lg:hidden block ml-auto"
+        className="text-white md:hidden block ml-auto"
         onClick={clickHandler}
       >
         <img

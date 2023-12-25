@@ -23,7 +23,7 @@ function Hero() {
           Send a mail
         </a>
       </div>
-      <div className="relative md:pl-6">
+      <div className="relative md:ml-auto">
         <div className="absolute bg-yellow-500 text-yellow-500 top-10 left-6 md:top-10 md:left-10 animate-spin-slow z-20 w-10 h-10">
           .
         </div>
@@ -31,7 +31,7 @@ function Hero() {
           src={pratik}
           alt="png"
           loading="lazy"
-          className="mx-auto md:mx-0 md:pl-16 pt-6 w-44 md:w-auto"
+          className="mx-auto md:mx-0 md:pl-16 pt-6 w-44 md:w-80 lg:w-auto"
         />
         <div className="absolute bg-white text-white bottom-4 right-10 md:bottom-20 md:right-10 animate-spin-slow2 z-20 w-6 h-6">
           .
